@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zoo</string>
+    <string name="press_again_exit">再按一次離開 App</string>
+    <string name="home_title">臺北市立動物園</string>
+    <string name="detail_open_web">在網頁開啟</string>
+    <string name="detail_plants_title">植物資料</string>
+    <string name="plant_also_known">別名</string>
+    <string name="plant_brief">簡介</string>
+    <string name="plant_feature">辨認方式</string>
+    <string name="plant_function">功能性</string>
+    <string name="plant_update_time">最後更新：</string>
+    <string name="data_empty">尚未有資料</string>
+    <string name="retry">請重試</string>
+</resources>
